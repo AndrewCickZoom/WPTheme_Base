@@ -1,0 +1,30 @@
+.wp-full-overlay-sidebar {
+    width: 450px;
+}
+
+.wp-full-overlay.expanded {
+    margin-left: 450px;
+}
+
+.wp-full-overlay.collapsed .wp-full-overlay-sidebar {
+    margin-left: -450px;
+}
+
+.customize-control-textarea{
+
+}
+
+.textarea-col{
+    width: 45%;
+    clear: none;
+}
+
+.textarea-left {
+    float: left;
+    margin-right: 2.5%;
+}
+
+.textarea-right {
+    float: right;
+    margin-left: 2.5%;
+}
